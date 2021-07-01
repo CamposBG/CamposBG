@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Bruno
 #### PhD biologist, researcher and Web developer.
-![PhD biologist, researcher and Web developer.](https://thumbs.dreamstime.com/b/green-computing-green-technology-green-csr-ethics-concept-tree-soil-growing-light-bulb-digital-convergence-215835637.jpg)
+![PhD biologist, researcher and Web developer.](https://github.com/CamposBG/CamposBG/blob/main/maria-blog-pic-637256530890362758.jpg)
 
 I'm a self-taught web developer from Brazil. I have started using Python for data analysis during my PhD and got passionate about programing. Now I'm working on my Web Development skills,  focusing on Backend development. 
 Here you can find some of my personal project and learning path. 
