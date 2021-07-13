@@ -15,7 +15,6 @@ Here you can find some of my personal project and learning path.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CamposBG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://br.linkedin.com/in/bruno-galv%C3%A3o-de-campos-b67325133)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](workingON)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamposBG)](https://github.com/anuraghazra/github-readme-stats)
+[![Bruno github stats](https://github-readme-stats.vercel.app/api?username=CamposBG&theme=tokyonight&show_icons=true)](https://github.com/CamposBG-prog/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CamposBG&show_icons=true)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamposBG&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
