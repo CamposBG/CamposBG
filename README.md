@@ -10,7 +10,7 @@ Here you can find some of my personal project and learning path.
 * :heavy_check_mark: Javascript / Node 
 * :heavy_check_mark: MongoDB
 
-- 🔭 I’m currently working on my personal projects and to improve my backend dev skills 
+- 🔭 I’m currently working on my personal projects and to improve my frontend and backend dev skills 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CamposBG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://br.linkedin.com/in/bruno-galv%C3%A3o-de-campos-b67325133)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](workingON)  
