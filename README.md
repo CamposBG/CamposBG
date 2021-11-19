@@ -1,6 +1,6 @@
 ![PhD biologist, researcher and Web developer.](https://github.com/CamposBG/CamposBG/blob/main/maria-blog-pic-637256530890362758.jpg)
 # I'm Bruno
-#### PhD Biologist, Researcher and Web Developer.
+#### Web Developer | Researcher | PhD Biologist.
 
 I'm a self-taught web developer from Brazil. I have started using Python for data analysis during my PhD and got passionate about programing. Now I'm working on my Web Development skills,  focusing on Backend development. 
 Here you can find some of my personal project and learning path. 
