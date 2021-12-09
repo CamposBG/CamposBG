@@ -2,7 +2,7 @@
 # I'm Bruno
 #### Web Developer | Researcher | PhD Biologist.
 
-I'm a self-taught web developer from Brazil. I have started using Python for data analysis during my PhD and got passionate about programing. Now I'm working on my Web Development skills,  focusing on Backend development. 
+I'm a self-taught web developer from Brazil. I have started using Python for data analysis during my PhD and got passionate about programing. Now I'm working on my Web Development skills. 
 Here you can find some of my personal project and learning path. 
 
 ### Knowledge 🌱 
